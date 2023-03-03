@@ -1,0 +1,29 @@
+Epoch: 0000 loss_train: 0.6940850019 auc_train: 0.5387561546 acc_train: 0.5035655058 loss_val: 0.6797526479 auc_val: 0.5789672003 acc_val: 0.6509950249 time: 6.1835s
+Epoch: 0027 loss_train: 0.6824344993 auc_train: 0.8027793272 acc_train: 0.6505804312 loss_val: 0.6791176796 auc_val: 0.7831310765 acc_val: 0.7184079602 time: 5.0098s
+Epoch: 0028 loss_train: 0.6812974811 auc_train: 0.8041663959 acc_train: 0.6604477612 loss_val: 0.6781051159 auc_val: 0.7848544156 acc_val: 0.7196517413 time: 5.2169s
+Epoch: 0029 loss_train: 0.6800309420 auc_train: 0.8057406256 acc_train: 0.6699834163 loss_val: 0.6770728230 auc_val: 0.7867143419 acc_val: 0.7233830846 time: 4.8958s
+Epoch: 0030 loss_train: 0.6786173582 auc_train: 0.8070746401 acc_train: 0.6749585406 loss_val: 0.6759999394 auc_val: 0.7889115823 acc_val: 0.7348258706 time: 5.5668s
+Epoch: 0031 loss_train: 0.6770377159 auc_train: 0.8081191393 acc_train: 0.7015754561 loss_val: 0.6748601198 auc_val: 0.7908488579 acc_val: 0.7328358209 time: 5.0688s
+Epoch: 0032 loss_train: 0.6752694845 auc_train: 0.8095425675 acc_train: 0.7174958541 loss_val: 0.6736167073 auc_val: 0.7924606669 acc_val: 0.7343283582 time: 4.5570s
+Epoch: 0033 loss_train: 0.6732861400 auc_train: 0.8110598514 acc_train: 0.7391376451 loss_val: 0.6722301245 auc_val: 0.7941360712 acc_val: 0.7325870647 time: 4.8953s
+Epoch: 0034 loss_train: 0.6710546613 auc_train: 0.8125114157 acc_train: 0.7454394693 loss_val: 0.6706521511 auc_val: 0.7959545992 acc_val: 0.7296019900 time: 5.0487s
+Epoch: 0035 loss_train: 0.6685357690 auc_train: 0.8137584642 acc_train: 0.7489220564 loss_val: 0.6688150167 auc_val: 0.7975195627 acc_val: 0.7139303483 time: 4.9496s
+Epoch: 0036 loss_train: 0.6656917930 auc_train: 0.8152387146 acc_train: 0.7501658375 loss_val: 0.6666285396 auc_val: 0.7990207947 acc_val: 0.6977611940 time: 4.8990s
+Epoch: 0037 loss_train: 0.6624675989 auc_train: 0.8164855705 acc_train: 0.7515754561 loss_val: 0.6640220284 auc_val: 0.8009328773 acc_val: 0.6982587065 time: 5.3576s
+Epoch: 0038 loss_train: 0.6588204503 auc_train: 0.8173862816 acc_train: 0.7564676617 loss_val: 0.6608752012 auc_val: 0.8021889880 acc_val: 0.7029850746 time: 5.8207s
+Epoch: 0039 loss_train: 0.6546751261 auc_train: 0.8185591808 acc_train: 0.7603648425 loss_val: 0.6570534706 auc_val: 0.8042715661 acc_val: 0.7054726368 time: 6.0254s
+Epoch: 0040 loss_train: 0.6499362588 auc_train: 0.8202234844 acc_train: 0.7574626866 loss_val: 0.6524392366 auc_val: 0.8066653121 acc_val: 0.7087064677 time: 5.1106s
+Epoch: 0041 loss_train: 0.6444971561 auc_train: 0.8215356886 acc_train: 0.7560530680 loss_val: 0.6469343305 auc_val: 0.8091376332 acc_val: 0.7126865672 time: 5.0672s
+Epoch: 0042 loss_train: 0.6382530332 auc_train: 0.8225453959 acc_train: 0.7542288557 loss_val: 0.6404039264 auc_val: 0.8117928420 acc_val: 0.7184079602 time: 5.0654s
+Epoch: 0043 loss_train: 0.6310340166 auc_train: 0.8235407052 acc_train: 0.7542288557 loss_val: 0.6327022314 auc_val: 0.8150159152 acc_val: 0.7181592040 time: 5.0809s
+Epoch: 0044 loss_train: 0.6226776838 auc_train: 0.8250539735 acc_train: 0.7505804312 loss_val: 0.6236516237 auc_val: 0.8191456650 acc_val: 0.7216417910 time: 5.1502s
+Epoch: 0045 loss_train: 0.6130051613 auc_train: 0.8268704538 acc_train: 0.7505804312 loss_val: 0.6131366491 auc_val: 0.8238722852 acc_val: 0.7189054726 time: 5.3489s
+Epoch: 0046 loss_train: 0.6018118858 auc_train: 0.8291413877 acc_train: 0.7514096186 loss_val: 0.6009725332 auc_val: 0.8297624148 acc_val: 0.7211442786 time: 4.8895s
+Epoch: 0047 loss_train: 0.5889549255 auc_train: 0.8321366116 acc_train: 0.7557213930 loss_val: 0.5869686007 auc_val: 0.8363475995 acc_val: 0.7243781095 time: 4.9607s
+Epoch: 0048 loss_train: 0.5742895007 auc_train: 0.8355449514 acc_train: 0.7598673300 loss_val: 0.5708552003 auc_val: 0.8437516256 acc_val: 0.7338308458 time: 5.0410s
+Epoch: 0049 loss_train: 0.5577939749 auc_train: 0.8393600675 acc_train: 0.7639303483 loss_val: 0.5522055030 auc_val: 0.8526936520 acc_val: 0.7435323383 time: 5.5055s
+Best Epoch: 0049
+--------------------------------
+--------Testing-----------------
+--------------------------------
+loss_test: 0.5184469223 auc_test: 0.8589863219 acc_test: 0.7773039564
